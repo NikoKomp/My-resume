@@ -1,5 +1,5 @@
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
 }
 .main-container {
@@ -184,6 +184,10 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
+}
+
+.contact-section-link :hover {
+  color: aqua;
 }
 .soft-skill-section,
 .soft-skill-list,
