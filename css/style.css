@@ -243,9 +243,9 @@ a {
   max-width: 800px;
   padding: 30px;
   position: relative;
-  transition: all 0.8s ease 0s;
+  transition: all 1s ease 0s;
   opacity: 0;
-  transform: perspective(600px) translate(0px, -100%) rotateX(45deg);
+  transform: perspective(600px) translate(0px, -100%) rotateX(30deg)
 }
 .popup__close {
   position: absolute;
@@ -269,3 +269,4 @@ a {
   top: 0;
   left: 0;
 }
+perspective(600px) translate(0px, -100%) rotateX(30deg)
